@@ -1,2 +1,2 @@
 # 1926
-For PG1926 training
+Problem sets for PG1926 
