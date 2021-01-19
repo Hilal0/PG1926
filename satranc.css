@@ -1,0 +1,39 @@
+#body{
+    background-color:#b4d1b3;
+}
+#h2{
+    color: #7c0f07;
+    text-align: center;
+    font-size: 2em;
+}
+.yesil{
+    background-color: #033115;
+    border: black solid 0px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+.beyaz{
+    background-color: white;
+    border: black solid 0px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+.buton{
+    background-color:white;
+    border: black solid 0px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+#table{
+    border: 2px solid #413e3e;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0px;
+    padding: 0%;
+    width: 80px;
+    height: 80px;
+}
