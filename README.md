@@ -1,3 +1,2 @@
-## 1926
-#My lecture notes
-Problem sets for PG1926 
+# PG1926
+My lecture notes and problem sets for PG1926 
