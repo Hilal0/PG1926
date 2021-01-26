@@ -1,16 +1,11 @@
-adet = int(input("Kac sayi girilecek: "))
-sayi = []
+liste=[]
+sayi = int(input("Kaç sayı girilecek:"))
+for n in range(sayi):
+    sayi=int(input("{}. sayıyı girin :". format(n+1)))
+    if sayi not  in liste :
+        if sayi%2!=0:
+            liste.append(sayi)
+        else:
+            pass
 
-for i in range(adet):
-    sayi.append(input())
-
-sayi.sort(reverse=True)
-print(sayi)
-
-for s in range(len(sayi)):
-    if s % 2 != 0:
-        print(s, end=" ")
-    else:
-        print("")
-s+= 1
-print("En buyuk tek sayi:",max(sayi))
+print("Listedeki en büyük tek sayı:", max(liste))
