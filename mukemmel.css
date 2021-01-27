@@ -1,0 +1,19 @@
+#body{
+    background-color: #b4d1b3;
+}
+#table{
+    border: 2;
+    background-color: plum;
+    font-family: 'Times New Roman', Times, serif;
+    margin:auto;
+    border-spacing: 10px;
+
+}
+td{
+    background-color: plum;
+    width: 100px;
+    height: 20px;
+    column-span:2;
+    box-align:center;
+    padding: 0%;
+}
