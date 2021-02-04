@@ -1,0 +1,21 @@
+body{
+    background-color:#b4d1b3;
+}
+#ilk{
+    height: 170px;
+    width: 500px;
+    background-color: #033115;
+    margin: auto;
+}
+#orta{
+    text-align: center;
+    line-height: 50px;
+}
+#son{
+    color: white;
+    font-size: 15px;
+}
+#button{
+    color: purple;
+    font-size: larger;
+}
